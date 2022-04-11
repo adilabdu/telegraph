@@ -69,6 +69,10 @@ An extensive documentation is available at
 
 https://def-studio.github.io/telegraph
 
+## Forked Project
+
+This forked project intends to implement the `Inline Mode` API referenced [here on the Telegram Bot API documentation](https://core.telegram.org/bots/api#inline-mode). 
+
 ## Testing
 
 ```bash
